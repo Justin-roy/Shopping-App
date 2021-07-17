@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ShopMe</string>
+    <string name="shoes">SHOES</string>
+    <string name="justin">JUSTIN</string>
+    <string name="shopme">SHOPME</string>
+    <string name="secon_activite_img">SECOND</string>
+    <string name="adidas">Adidas</string>
+    <string name="_280">$280</string>
+    <string name="us_6">US 6</string>
+    <string name="size">Size</string>
+    <string name="adidas_nmd_r1">Adidas Nmd R1</string>
+    <string name="adidas_harden_vol">Adidas Harden Vol</string>
+    <string name="adidas_ku_basketball">Adidas Ku Basketball</string>
+    <string name="adidas_rapidarun">Adidas Rapidarun</string>
+    <string name="adidas_sport">Adidas Sport</string>
+    <string name="adidas_ultraboost">Adidas Ultraboost</string>
+    <string name="adidas_golf_shoes">Adidas Golf</string>
+    <string name="adidas_basketball_shoes">Adidas Basketball</string>
+    <string name="nmd_r1">Nmd R1</string>
+</resources>
